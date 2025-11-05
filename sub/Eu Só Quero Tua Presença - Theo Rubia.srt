@@ -1,0 +1,425 @@
+1
+00:00:02,000 --> 00:00:09,000
+Estou te esperando aqui
+私はここで待っています
+
+2
+00:00:09,000 --> 00:00:16,000
+Eu já fechei a porta, pode vir
+もうドアを閉めました。来て下さい
+
+3
+00:00:16,000 --> 00:00:21,000
+Estou te esperando pra fazer
+私はあなたがすることを待っています
+
+4
+00:00:21,000 --> 00:00:30,000
+O que tens que fazer
+何をなされるのですか？
+
+5
+00:00:30,000 --> 00:00:36,000
+Meu coração aberto já está
+私の心はもう開かれています
+
+6
+00:00:36,000 --> 00:00:44,000
+Te peço: Vem encher este lugar
+来てこの場所を満たしてください
+
+7
+00:00:44,000 --> 00:00:49,000
+Te entrego tudo que eu tenho e sou
+私はあなたに持っているすべてを捧げます
+
+8
+00:00:49,000 --> 00:00:58,000
+E também quem não sou
+そして私以外の人も
+
+9
+00:00:58,000 --> 00:01:05,000
+Eu só quero tua presença
+あなたに居て欲しいだけです
+
+10
+00:01:05,000 --> 00:01:12,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+11
+00:01:12,000 --> 00:01:21,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+12
+00:01:21,000 --> 00:01:33,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+
+13
+00:01:33,000 --> 00:01:39,000
+Estou te esperando aqui
+ここであなたを待っています
+
+14
+00:01:39,000 --> 00:01:47,000
+Eu já fechei a porta, pode vir
+もうドアを閉めました。来て下さい
+
+15
+00:01:47,000 --> 00:01:52,000
+Estou te esperando pra fazer
+私はあなたがすることを待っています
+
+16
+00:01:52,000 --> 00:02:00,000
+O que tens que fazer
+何をなされるのですか？
+
+17
+00:02:00,000 --> 00:02:07,000
+Meu coração aberto já está
+私の心はもう開かれています
+
+18
+00:02:07,000 --> 00:02:14,000
+Te peço: Vem encher este lugar
+来てこの場所を満たしてください
+
+19
+00:02:14,000 --> 00:02:20,000
+Te entrego tudo que eu tenho e sou
+私はあなたに全てを捧げます
+
+20
+00:02:20,000 --> 00:02:29,000
+E também quem não sou
+そして私以外の人も
+
+21
+00:02:29,000 --> 00:02:35,000
+Eu só quero tua presença
+あなたに居てほしいだけです
+
+22
+00:02:35,000 --> 00:02:43,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+23
+00:02:43,000 --> 00:02:51,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+24
+00:02:51,000 --> 00:02:57,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+
+25
+00:02:57,000 --> 00:03:03,000
+Eu só quero tua presença
+あなたに居てほしいだけです
+
+26
+00:03:03,000 --> 00:03:10,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+27
+00:03:10,000 --> 00:03:19,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+28
+00:03:19,000 --> 00:03:24,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+
+29
+00:03:24,000 --> 00:03:31,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+30
+00:03:31,000 --> 00:03:38,000
+Eu não quero mais sair daqui, não quero
+もうここを離れたくない、離れたくない
+
+31
+00:03:38,000 --> 00:03:45,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+32
+00:03:45,000 --> 00:03:52,000
+Me deixa, me deixa morar em tua presença
+あなたの御前で生きさせてください
+
+33
+00:03:52,000 --> 00:03:54,000
+Ainda que eu soubesse
+たとえ私が知っていたとしても
+
+34
+00:03:54,000 --> 00:03:59,000
+Palavras mais profundas que um oceano
+海よりも深い言葉を
+
+35
+00:03:59,000 --> 00:04:04,000
+E minha voz fosse tão alta como o céu
+私の声が空のように大きくても
+
+36
+00:04:04,000 --> 00:04:07,000
+Eu nunca saberia expressar
+私には言い表すことはできません
+
+37
+00:04:07,000 --> 00:04:11,000
+O quanto isso é tudo que eu preciso
+必要なのはこれだけです
+
+38
+00:04:11,000 --> 00:04:18,000
+É mais do que eu posso sonhar, oh
+夢にも思いませんでした
+
+39
+00:04:18,000 --> 00:04:22,000
+A tua presença vale mais que o ouro
+あなたの存在は金よりも価値がある
+
+40
+00:04:22,000 --> 00:04:25,000
+A tua presença vale mais que a prata
+あなたの存在は銀よりも価値がある
+
+41
+00:04:25,000 --> 00:04:28,000
+A tua presença vale mais que o ouro
+あなたの存在は金よりも価値がある
+
+42
+00:04:28,000 --> 00:04:32,000
+A tua presença vale mais que a prata
+あなたの存在は銀よりも価値がある
+
+43
+00:04:32,000 --> 00:04:36,000
+A tua presença vale mais que o ouro
+あなたの存在は金よりも価値がある
+
+44
+00:04:36,000 --> 00:04:39,000
+A tua presença vale mais que a prata
+あなたの存在は銀よりも価値がある
+
+45
+00:04:39,000 --> 00:04:48,000
+A tua presença vale mais, vale mais que tudo
+あなたの存在は何よりも価値がある
+
+46
+00:04:48,000 --> 00:04:55,000
+Eu só quero tua presença
+あなたに居てほしいだけです
+
+47
+00:04:55,000 --> 00:05:01,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+48
+00:05:01,000 --> 00:05:10,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+49
+00:05:10,000 --> 00:05:16,000
+Que a tua graça já me basta
+あなたの恵みが私にとって十分であることを
+
+50
+00:05:16,000 --> 00:05:23,000
+Eu só quero tua presença, hoje
+今日はあなたに居てほしい
+
+51
+00:05:23,000 --> 00:05:30,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+52
+00:05:30,000 --> 00:05:38,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+53
+00:05:38,000 --> 00:05:43,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+
+54
+00:05:43,000 --> 00:05:50,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+55
+00:05:50,000 --> 00:05:57,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+56
+00:05:57,000 --> 00:06:05,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+57
+00:06:05,000 --> 00:06:11,000
+Me deixa morar, ah-ah-ah
+私に生きさせてください
+
+58
+00:06:11,000 --> 00:06:18,000
+Eu não quero mais sair daqui
+もうここを離れたくありません
+
+59
+00:06:18,000 --> 00:06:25,000
+Eu não quero mais sair daqui
+私はもうここを離れたくありません
+
+60
+00:06:25,000 --> 00:06:32,000
+Eu não quero mais (só aqui) sair daqui
+私はもうここを離れたくありません
+
+61
+00:06:32,000 --> 00:06:39,000
+Me deixa morar (pra sempre, pra sempre)
+永遠に生きさせてください
+
+62
+00:06:39,000 --> 00:06:46,000
+Eu só quero tua presença (aleluia)
+あなたに居てほしいだけです
+
+63
+00:06:46,000 --> 00:06:53,000
+Hoje não vou te pedir nada
+今日は何もお願いしません
+
+64
+00:06:53,000 --> 00:07:01,000
+Só quero levantar a minha voz pra te dizer
+私はただ声を上げてあなたに言いたいのです
+
+65
+00:07:01,000 --> 00:07:09,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+
+66
+00:07:09,000 --> 00:07:15,000
+Você já me basta
+私にはあなたで十分です
+
+67
+00:07:15,000 --> 00:07:18,000
+(Me basta, me basta)
+(私には十分です、私には十分です)
+
+68
+00:07:23,000 --> 00:07:30,000
+(Aleluia, aleluia)
+(ハレルヤ、ハレルヤ)
+
+69
+00:07:34,000 --> 00:07:40,000
+(Ela nos basta)
+(私たちはそれで十分です)
+
+70
+00:07:40,000 --> 00:07:47,000
+(Ela é suficiente, Jesus)
+(それで十分です、イエス様)
+
+71
+00:07:47,000 --> 00:07:54,000
+(Ela é suficiente, Jesus)
+(それで十分です、イエス様)
+
+72
+00:07:54,000 --> 00:07:58,000
+(Ela é suficiente)
+(それで十分です)
+
+73
+00:07:58,000 --> 00:08:01,000
+(Ela é suficiente)
+(それで十分です)
+
+74
+00:08:01,000 --> 00:08:10,000
+(Tua presença é, é suficiente)
+(あなたがいれば十分だ)
+
+75
+00:08:10,000 --> 00:08:16,000
+Tua presença, tua presença (nada mais)
+あなたの存在、あなたの存在
+
+76
+00:08:16,000 --> 00:08:18,000
+(Nada mais é maior do que a tua presença)
+あなたの存在より偉大なものはありません
+
+77
+00:08:18,000 --> 00:08:43,000
+Tua presença, tua presença, tua presença
+あなたの存在、あなたの存在、あなたの存在
+
+78
+00:08:58,000 --> 00:09:00,000
+Rasgue o seu coração nessa hora
+この時あなたの心を開いて
+
+79
+00:09:00,000 --> 00:09:04,000
+Rasgue o seu coração nessa hora
+この時あなたの心を開いて
+
+80
+00:09:04,000 --> 00:09:06,000
+E diga isso pra ele mais uma vez
+もう一度神に言いましょう
+
+81
+00:09:06,000 --> 00:09:10,000
+Diga bem alto, eu só quero sua presença
+大きな声で、あなたに居てほしいと
+
+82
+00:09:10,000 --> 00:09:17,000
+Eu só quero tua presença (hoje)
+私はあなたに居てほしい(今日)
+
+83
+00:09:17,000 --> 00:09:24,000
+(Hoje não vou te pedir nada)
+(今日は何もお願いしません)
+
+84
+00:09:24,000 --> 00:09:32,000
+(Só quero levantar a minha voz pra te dizer)
+(声を上げて伝えたいだけです)
+
+85
+00:09:32,000 --> 00:09:43,000
+Que a tua graça já me basta
+私にはあなたの恩寵で十分です
+

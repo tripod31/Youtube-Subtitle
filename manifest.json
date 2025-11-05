@@ -1,0 +1,30 @@
+{
+  "name": "YouTube-Subtitle",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://cf862826.cloudfree.jp/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "YouTubeの字幕を表示"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "sub/*.srt",
+        "sub-table.json"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}
