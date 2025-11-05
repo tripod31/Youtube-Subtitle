@@ -2,6 +2,8 @@
 Chromeの拡張機能のサンプルです。Youtube上に字幕を表示します。
 
 ## ファイル
+- manufest.json  
+V3に対応しています
 - sub/*.srt  
 字幕ファイルのサンプル
 - sub-table.json  
@@ -18,4 +20,4 @@ VideoIDはYoutube動画のURLがhttps://www.youtube.com/watch?v=4DFBOuQQi1sの�
 
 ## メモ
 このサンプルでは字幕ファイル、sub-table.jsonを拡張機能に含めています。これらを別サーバーに置くには、サーバーからのレスポンスヘッダーにAccess-Control-Allow-Originを設定する必要があります。  
-これらのファイルををローカルフォルダに置くことはできません。拡張機能の制限です。
+これらのファイルを拡張機能と別のローカルフォルダに置くことはできません。拡張機能のセキュリティ制限です。
