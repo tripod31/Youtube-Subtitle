@@ -16,7 +16,7 @@ VideoIDはYoutube動画のURLがhttps://www.youtube.com/watch?v=4DFBOuQQi1sの�
 
 ## 使い方
 - chromeの拡張機能→「パッケージ化されていない拡張機能を読み込む」で読み込みます。
-- sub-table.jsonにあるVideoIDのYoutube動画を開くと、対応する字幕を表示します。
+- sub-table.jsonにあるVideoIDのYoutube動画を開いて、拡張機能のアイコンをクリックすると、VideoIDに対応する字幕を表示します。
 
 ## メモ
 このサンプルでは字幕ファイル、sub-table.jsonを拡張機能に含めています。これらを別サーバーに置くには、サーバーからのレスポンスヘッダーにAccess-Control-Allow-Originを設定する必要があります。  
