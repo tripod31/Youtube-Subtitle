@@ -113,6 +113,7 @@ let SetupSub = async function () {
     }
 
     // 字幕テーブル読み込み
+    // fetchするファイルを別サーバーに置く場合、サーバーのリスポンスヘッダにAccess-Control-Allow-Originを設定する
     //const jsonFileUrl = chrome.runtime.getURL("sub-table.json");
     const jsonFileUrl = 'https://cf862826.cloudfree.jp/youtube-player-iframe/sub-table.json'
     const response = await fetch(jsonFileUrl);
@@ -124,6 +125,7 @@ let SetupSub = async function () {
     }
     let subFile = subTable[videoId];
     document.title = subFile.split(".").slice(0, -1).join("."); // タイトル設定
+    // fetchするファイルを別サーバーに置く場合、サーバーのリスポンスヘッダにAccess-Control-Allow-Originを設定する
     //let subFileUrl = chrome.runtime.getURL("sub/" + subFile);
     let subFileUrl= encodeURI(`https://cf862826.cloudfree.jp/youtube-player-iframe/sub/${subFile}`)
 
